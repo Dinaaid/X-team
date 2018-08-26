@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+body{
+    text-align: center;
+    background:url("pexels-photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: whitesmoke;
+    font-family: 'lobster two',cursive;
+    text-shadow: 2px 2px 4px #000000;
+    overflow: hidden;
+}
+input {
+    font-size: 20px;
+    border: 0px;
+    padding: 10px;
+    font-family: 'lobster  two' , cursive;
+}
+input[type="submit"] {
+    background:rgb(255, 0, 0);
+    color: white;
+}
+img{
+    margin: 50px 0px 0px 0px ;
+}
